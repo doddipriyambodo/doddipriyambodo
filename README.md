@@ -8,6 +8,15 @@
 
 ---
 
+### 📂 My GitHub Ecosystem
+I maintain my work across three specialized repositories:
+
+* **[github/do-priyambodo](https://github.com/do-priyambodo)**: Primary personal profile for active open-source contributions and innovative AI projects.
+* **[github/priyambodo-at-google](https://github.com/priyambodo-at-google)**: Professional solutions, Google Cloud tutorials, and enterprise-grade AI/Data tools
+* **[github/doddipriyambodo](https://github.com/doddipriyambodo)**: Archive and workspace for technical explorations and specialized modules.
+
+---
+
 ### 🚀 About Me
 With over two decades years of experience at **Google, AWS, VMware, and IBM**, I transform visionary thinking into enterprise reality. I blend deep AI expertise with a storyteller's perspective to solve the world's largest enterprise challenges.
 
@@ -15,15 +24,6 @@ With over two decades years of experience at **Google, AWS, VMware, and IBM**, I
 * **Expertise:** Cloud Architecture, Machine Learning, and Strategic Consulting.
 * **Portfolio:** Check my published articles, codes/apps, stories at [priyambodo.com](https://priyambodo.com)
 * **Community:** Active vExpert and tech evangelist at [Bicara IT](https://bicarait.com) & Google Developer Group (GDG)
-
----
-
-### 📂 My GitHub Ecosystem
-I maintain my work across three specialized repositories:
-
-* **[github/do-priyambodo](https://github.com/do-priyambodo)**: Primary personal profile for active open-source contributions and innovative AI projects.
-* **[github/priyambodo-at-google](https://github.com/priyambodo-at-google)**: Professional solutions, Google Cloud tutorials, and enterprise-grade AI/Data tools
-* **[github/doddipriyambodo](https://github.com/doddipriyambodo)**: Archive and workspace for technical explorations and specialized modules.
 
 ---
 
